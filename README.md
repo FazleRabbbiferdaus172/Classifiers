@@ -1,9 +1,9 @@
 # Classifiers
 5 different classifiers,each applied on 5 different datasets with evaluation metrics
 
-#Classifiers Name: KNN, Logistic Regression, Support Vector machine, Decision Tree, Random Forest
+Classifiers Name: KNN, Logistic Regression, Support Vector machine, Decision Tree, Random Forest
 
-#Data set name and links:
+Data set name and links:
  1.Fruit data set
    https://gobedoheyvtxfhdowqadhj.coursera-apps.org/edit/fruit_data_with_colors.txt
    
