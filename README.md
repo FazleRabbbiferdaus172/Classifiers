@@ -14,9 +14,9 @@ Data set name and links
  3.Zoo
    https://archive.ics.uci.edu/ml/datasets/Zoo
    
- 4.Abalone: 
+ 4.Abalone 
    https://archive.ics.uci.edu/ml/datasets/Abalone
    
- 5.Seeds: 
+ 5.Seeds
    https://archive.ics.uci.edu/ml/datasets/seeds
    
