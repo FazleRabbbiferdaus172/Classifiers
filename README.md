@@ -3,7 +3,8 @@
 
 Classifiers Name: KNN, Logistic Regression, Support Vector machine, Decision Tree, Random Forest
 
-Data set name and links:
+Data set name and links
+
  1.Fruit data set
    https://gobedoheyvtxfhdowqadhj.coursera-apps.org/edit/fruit_data_with_colors.txt
    
